@@ -1,0 +1,7 @@
+{
+	"parent": "item/lantern",
+	"textures": {
+		"particle": "block/soul_lantern",
+		"lantern": "block/soul_lantern"
+	}
+}

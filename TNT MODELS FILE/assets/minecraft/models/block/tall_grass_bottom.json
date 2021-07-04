@@ -1,0 +1,7 @@
+{
+    "parent": "block/tinted_cross_double",
+    "textures": {
+        "cross": "block/tall_grass_bottom",
+        "notint": "block/tall_grass_bottom_notint"
+    }
+}

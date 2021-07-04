@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_torch",
+	"textures": {
+		"particle": "block/redstone_torch",
+		"torch": "block/redstone_torch"
+	}
+}

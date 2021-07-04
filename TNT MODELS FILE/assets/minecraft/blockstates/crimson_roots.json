@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/crimson_roots"},
+      {"model": "minecraft:block/crimson_roots_2"},
+      {"model": "minecraft:block/crimson_roots_3"},
+      {"model": "minecraft:block/crimson_roots_4"},
+      {"model": "minecraft:block/crimson_roots_5"},
+      {"model": "minecraft:block/crimson_roots_6"}
+    ]
+  }
+}

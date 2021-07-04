@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+	    "cross": "#cross",
+	    "notint": "#notint",
+	    "particle": "#cross"
+  	},
+	"elements": [
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross", "tintindex": 0}
+			}
+		},
+		{
+			"from": [0.8, 0, 8],
+			"to": [15.2, 16, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#notint"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#notint"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#notint"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#notint"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#notint"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#notint"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#cross", "tintindex": 0},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#cross", "tintindex": 0},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#cross"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#cross"}
+			}
+		},
+		{
+			"from": [8, 0, 0.8],
+			"to": [8, 16, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 8, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#notint"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#notint"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#notint"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#notint"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#notint"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#notint"}
+			}
+		}
+	]
+}
